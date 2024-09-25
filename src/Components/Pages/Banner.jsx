@@ -19,14 +19,14 @@ const Banner = () => {
       
             <div className="mt-8 flex flex-wrap justify-center gap-4">
               <a
-                className="block w-full rounded-lg border-common_color1 hover:bg-common_color1 px-12 py-3 text-sm font-medium text-white hover:bg-transparent focus:outline-none focus:ring active:text-opacity-75 sm:w-auto"
+                className="block w-full rounded-lg border- border-common_color1 px-12 py-3 text-sm font-medium text-white hover:bg-common_color1 focus:outline-none focus:ring sm:w-auto"
                 href="#"
               >
                 Get Free Quoto
               </a>
       
               <a
-                className="block w-full rounded-lg border-common_color1 px-12 py-3 text-sm font-medium text-white hover:bg-common_color1 focus:outline-none focus:ring sm:w-auto"
+                className="block w-full rounded-lg border-2 border-common_color1 px-12 py-3 text-sm font-medium text-white hover:bg-common_color1 focus:outline-none focus:ring sm:w-auto"
                 href="#"
               >
                 Learn More
